@@ -1,4 +1,9 @@
 glpi_backup
 ===========
 
-Adjustments on the Backups plugin to work in future versions of GLPI ad pt_BR translation
+GLPI Backups Plugin 
+
+* Adjustments to work with future versions of GLPI 
+* pt_BR translation
+
+Tested in 0.84.
